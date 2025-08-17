@@ -1,4 +1,4 @@
-# Meu Primeiro Projeto Web: O Minimercado! 🛒
+# Meu Primeiro Projeto Web: O Minimercado Blue! 🛒
 
 Olá! Este é o meu projeto para a matéria de Fundamentos de Sistemas Web. A proposta era criar um site estático do zero para um minimercado, e este foi o resultado. Foi minha primeira experiência em construir a estrutura de uma página real usando apenas HTML.
 
@@ -15,25 +15,24 @@ O site é uma página única e direta ao ponto, focada na estrutura:
 * Todas as informações estão organizadas em uma estrutura lógica de títulos, listas e imagens.
 * A navegação e o entendimento do conteúdo são claros, mesmo sem nenhum estilo visual aplicado.
 
-## 🚀 Ferramentas que eu usei (e aprendi a usar!)
+## 🚀 Ferramentas que eu usei
 
 * **HTML5:** Foi a única linguagem usada! Usei para criar toda a estrutura da página, desde o título principal até a lista de produtos. Foi um ótimo exercício para entender como as tags funcionam juntas.
 * **Git & GitHub:** Essencial para salvar cada etapa do projeto. Foi bom para criar o hábito de "commitar" as mudanças.
 * **GitHub Pages:** A parte mais mágica! Ver o arquivo HTML que eu escrevi se transformar em um site acessível por qualquer pessoa na internet.
 
-## 🔗 Quer ver como ficou?
+## 🔗 Como ficou
 
 O site está no ar, em sua versão HTML pura! Você pode acessar por este link:
 
-[https://felipe-fichtner.github.io/Minimercado_Blue.github.io/](https://felipe-fichtner.github.io/Minimercado_Blue.github.io/)
+[https://felipe-fichtner.github.io/Minimercado_Blue.github.io/](https://felipe-fichtner.github.io/-Minimercado_Blue-.github.io/)
 
-*(Este é o seu link correto, já substituí para você!)*
-
-## 📂 Como organizei a bagunça
+## 📂 Como organizei tudo
 
 A estrutura de arquivos é bem simples e direta:
 * `index.html`: É a página principal, onde todo o conteúdo está.
 * `img/`: Uma pasta para guardar todas as fotos dos produtos.
+* `AJUDA.md`: Um README para ajudar quem estiver vendo este projeto.
 
 ## 👨‍💻 Feito por:
 
